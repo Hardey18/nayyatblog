@@ -7,6 +7,16 @@
   align-items: center;
 }
 
+.postitem {
+  padding: 10px 0;
+}
+
+.goback {
+  text-align: left;
+  align-self: self-start;
+  cursor: pointer;
+}
+
 .main {
   padding: 5rem 0;
   flex: 1;
